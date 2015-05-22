@@ -6,7 +6,7 @@
     // { 'colour' : ['red', 'green'] },
     // { 'material' : ['cotton', 'wool', 'silk'] },
     // { 'shape' : ['round', 'square', 'rectangle'] }
-    [1, 2, 3],[3, 2, 1]
+    
 ];
 	function cartesianProduct(input, current) {
 		if (!input || !input.length) {
